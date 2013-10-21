@@ -1,0 +1,9 @@
+name: "kaytwo.org"
+description: "This is a repository for odds and ends"
+author: "Chris Kanich"
+professional: "http://www.cs.uic.edu/~ckanich"
+
+baseurl: ""
+
+sections: [home, syllabus, schedule, homeworks]
+
